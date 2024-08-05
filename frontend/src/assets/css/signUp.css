@@ -1,0 +1,16 @@
+.field{
+    margin-bottom: 15px;
+}
+
+.container.center {
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    max-width: 150;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
